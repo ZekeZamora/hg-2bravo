@@ -10,7 +10,6 @@
 - [ ] Bravo
 - [ ] Charlie
 - [ ] Delta
-- [ ] Echo
 
 # Tecnología
 - [ ] Python
